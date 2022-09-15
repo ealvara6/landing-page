@@ -118,3 +118,27 @@ a,
     height: 150px;
     margin-bottom: 10px;
 }
+
+
+.quote-section{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 400px;
+}
+
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+    width: 700px;
+    align-self: center;
+}
+
+.quote-author{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: end;
+}
